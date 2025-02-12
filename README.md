@@ -19,8 +19,8 @@ To run this project, ensure you have Python 3.x installed. Additionally, you wil
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/JeanVerissimo/pdf-wordcloud-generator.git
-cd pdf-wordcloud-generator
+git clone https://github.com/JeanVerissimo/wordcloud-generator.git
+cd wordcloud-generator
 ```
 
 2. **Install dependencies**:
@@ -40,10 +40,10 @@ nltk.download('stopwords')
 
 ## Usage
 
-Run the `pdf_wordcloud.py` script to start the application. This script provides a **GUI interface** to select a PDF file, analyze its content, and generate a word cloud.
+Run the `main.py` script to start the application. This script provides a **GUI interface** to select a PDF file, analyze its content, and generate a word cloud.
 
 ```bash
-python pdf_wordcloud.py
+python main.py
 ```
 
 ### Steps to Use:
