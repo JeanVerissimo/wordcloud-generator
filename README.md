@@ -1,5 +1,7 @@
 # PDF WordCloud Generator
 
+[🇧🇷 Leia em Português](README.pt.md)
+
 ## Overview
 
 This project implements a **PDF WordCloud Generator** that extracts text from a PDF file, processes it by removing stopwords, numbers, and punctuation, and generates a word cloud based on word frequency analysis.
